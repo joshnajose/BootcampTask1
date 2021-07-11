@@ -1,1 +1,1 @@
-# BootcampTask1
+# Implement inheritance between electronic devices
